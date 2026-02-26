@@ -56,8 +56,15 @@ I strive to create applications that are not only technically reliable, but incl
 ## 📌 Featured Project
 
 **TenderBox**  
-Full-stack web application built with Laravel and Angular.  
-Features backend–frontend architecture, authentication system, and structured project documentation.
+Group academic project developed by a team of three.  
+Full-stack web application built with Laravel and Angular.
+
+My primary contributions included:
+- Designing and implementing accessibility-focused UI solutions
+- Applying UX principles to improve usability and interface clarity
+- Developing core Angular frontend functionality and application logic
+
+The project features backend–frontend architecture, authentication system, and structured documentation.
 
 ---
 
