@@ -1,21 +1,23 @@
 # Hi, I'm Orsi 👋  
 
-**Junior Software Developer**  
-Accessibility & UX Focused | Full-Stack Web Development
+**Junior Software Developer with a UX & Design Background**  
+Accessibility-Focused | Full-Stack Web Development
 
-I am a junior software developer passionate about building accessible, user-centered web applications.  
-My main professional interests are **Web Accessibility (a11y)** and **User Experience (UX)**.
+I am a junior software developer with a strong foundation in UX and design.  
+As the founder of **Glimp Design Studio**, I bring a user-centered mindset into development, focusing on accessibility, clarity, and inclusive digital experiences.
 
-I strive to create applications that are not only technically reliable, but inclusive, usable, and thoughtfully designed.
+My professional interest lies at the intersection of **Web Accessibility (a11y)**, **UX thinking**, and technical implementation.
+
+I strive to build applications that are not only technically reliable, but thoughtfully designed and usable for everyone.
 
 ---
 
-## 💡 Areas of Interest
+## 💡 Areas of Focus
 
 - Web Accessibility (WCAG guidelines, semantic HTML)
-- UX-focused frontend development
+- UX-informed frontend development
 - Inclusive and responsive interface design
-- Full-stack web application development
+- Full-stack web application architecture
 
 ---
 
@@ -37,19 +39,20 @@ I strive to create applications that are not only technically reliable, but incl
 - SQL
 - MySQL
 
-### Tools & Concepts
+### Tools & Development Approach
 - REST APIs
 - Git & GitHub
 - Clean Code principles
-- UX-informed development approach
+- UX-aware development practices
+- Accessibility-first thinking
 
 ---
 
 ## 🚀 Currently Developing
 
-- Deeper knowledge of accessibility standards and inclusive design
-- Stronger UX design awareness in frontend development
-- Expanding real-world full-stack project experience
+- Advanced knowledge of accessibility standards and inclusive design
+- Stronger frontend architecture skills in Angular
+- Expanding real-world full-stack development experience
 
 ---
 
