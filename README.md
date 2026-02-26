@@ -1,9 +1,10 @@
 # Hi, I'm Orsi 👋  
 
-**Junior Software Developer | Accessibility & UX Focused | Full-Stack Web Development**
+**Junior Software Developer**  
+Accessibility & UX Focused | Full-Stack Web Development
 
 I am a junior software developer passionate about building accessible, user-centered web applications.  
-My main professional interests are **Web Accessibility (a11y)** and **User Experience (UX)**.  
+My main professional interests are **Web Accessibility (a11y)** and **User Experience (UX)**.
 
 I strive to create applications that are not only technically reliable, but inclusive, usable, and thoughtfully designed.
 
@@ -40,7 +41,7 @@ I strive to create applications that are not only technically reliable, but incl
 - REST APIs
 - Git & GitHub
 - Clean Code principles
-- Basic UX thinking in development
+- UX-informed development approach
 
 ---
 
@@ -48,7 +49,7 @@ I strive to create applications that are not only technically reliable, but incl
 
 - Deeper knowledge of accessibility standards and inclusive design
 - Stronger UX design awareness in frontend development
-- Practical full-stack project experience
+- Expanding real-world full-stack project experience
 
 ---
 
@@ -56,7 +57,7 @@ I strive to create applications that are not only technically reliable, but incl
 
 **TenderBox**  
 Full-stack web application built with Laravel and Angular.  
-Includes backend–frontend architecture, authentication logic, and structured project documentation.
+Features backend–frontend architecture, authentication system, and structured project documentation.
 
 ---
 
